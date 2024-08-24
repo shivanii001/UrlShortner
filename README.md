@@ -13,4 +13,4 @@ npm run dev in Terminal
 
 Open (http://localhost:3000) with your browser to see the result.
 
-NODE_NO_WARNINGS=1
+
